@@ -1,11 +1,15 @@
-# Magenta Kernel
+# Google Fuchsia
 
 This repository is an attempt to
 apply
 [6.828 Operating Systems](https://github.com/seporaitis/xv6-public/wiki) knowledge
-in practice, by trying to understand where is what in Google Fuchsia's
+in practice, by trying to understand what is where in Google Fuchsia's
 Magenta kernel code.
 
-The meat of this repository is in
-the [Wiki](https://github.com/seporaitis/fuchsia-magenta/wiki). The
+This is not official (at all), nor very comprehensive (yet).
+
+## Magenta Kernel
+
+The "meat" of this documentation is in
+the [Wiki](https://github.com/seporaitis/fuchsia/wiki). The
 code repo will hold reference documentation files, if any.
